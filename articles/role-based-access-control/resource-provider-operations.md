@@ -6932,9 +6932,6 @@ Azure service: [Azure Migrate](../migrate/migrate-services-overview.md)
 > | Action | Description |
 > | --- | --- |
 > | Microsoft.OffAzure/register/action | Registers Subscription with Microsoft.OffAzure resource provider |
-> | Microsoft.OffAzure/register/action | Registers Subscription with Microsoft.OffAzure resource provider |
-> | Microsoft.OffAzure/register/action | Registers Subscription with Microsoft.OffAzure resource provider |
-> | Microsoft.OffAzure/register/action | Registers Subscription with Microsoft.OffAzure resource provider |
 > | Microsoft.OffAzure/HyperVSites/read | Gets the properties of a Hyper-V site |
 > | Microsoft.OffAzure/HyperVSites/write | Creates or updates the Hyper-V site |
 > | Microsoft.OffAzure/HyperVSites/delete | Deletes the Hyper-V site |
