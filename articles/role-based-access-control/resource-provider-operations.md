@@ -6932,24 +6932,6 @@ Azure service: [Azure Migrate](../migrate/migrate-services-overview.md)
 > | Action | Description |
 > | --- | --- |
 > | Microsoft.OffAzure/register/action | Registers Subscription with Microsoft.OffAzure resource provider |
-> | Microsoft.OffAzure/register/action | Registers Subscription with Microsoft.OffAzure resource provider |
-> | Microsoft.OffAzure/register/action | Registers Subscription with Microsoft.OffAzure resource provider |
-> | Microsoft.OffAzure/register/action | Registers Subscription with Microsoft.OffAzure resource provider |
-> | Microsoft.OffAzure/HyperVSites/read | Gets the properties of a Hyper-V site |
-> | Microsoft.OffAzure/HyperVSites/write | Creates or updates the Hyper-V site |
-> | Microsoft.OffAzure/HyperVSites/delete | Deletes the Hyper-V site |
-> | Microsoft.OffAzure/HyperVSites/refresh/action | Refreshes the objects within a Hyper-V site |
-> | Microsoft.OffAzure/HyperVSites/updateProperties/action | Updates the properties for machines in a site |
-> | Microsoft.OffAzure/HyperVSites/read | Gets the properties of a Hyper-V site |
-> | Microsoft.OffAzure/HyperVSites/write | Creates or updates the Hyper-V site |
-> | Microsoft.OffAzure/HyperVSites/delete | Deletes the Hyper-V site |
-> | Microsoft.OffAzure/HyperVSites/refresh/action | Refreshes the objects within a Hyper-V site |
-> | Microsoft.OffAzure/HyperVSites/updateProperties/action | Updates the properties for machines in a site |
-> | Microsoft.OffAzure/HyperVSites/read | Gets the properties of a Hyper-V site |
-> | Microsoft.OffAzure/HyperVSites/write | Creates or updates the Hyper-V site |
-> | Microsoft.OffAzure/HyperVSites/delete | Deletes the Hyper-V site |
-> | Microsoft.OffAzure/HyperVSites/refresh/action | Refreshes the objects within a Hyper-V site |
-> | Microsoft.OffAzure/HyperVSites/updateProperties/action | Updates the properties for machines in a site |
 > | Microsoft.OffAzure/HyperVSites/read | Gets the properties of a Hyper-V site |
 > | Microsoft.OffAzure/HyperVSites/write | Creates or updates the Hyper-V site |
 > | Microsoft.OffAzure/HyperVSites/delete | Deletes the Hyper-V site |
@@ -6957,78 +6939,21 @@ Azure service: [Azure Migrate](../migrate/migrate-services-overview.md)
 > | Microsoft.OffAzure/HyperVSites/updateProperties/action | Updates the properties for machines in a site |
 > | Microsoft.OffAzure/HyperVSites/clusters/read | Gets the properties of a Hyper-V cluster |
 > | Microsoft.OffAzure/HyperVSites/clusters/write | Creates or updates the Hyper-V cluster |
-> | Microsoft.OffAzure/HyperVSites/clusters/read | Gets the properties of a Hyper-V cluster |
-> | Microsoft.OffAzure/HyperVSites/clusters/write | Creates or updates the Hyper-V cluster |
-> | Microsoft.OffAzure/HyperVSites/clusters/read | Gets the properties of a Hyper-V cluster |
-> | Microsoft.OffAzure/HyperVSites/clusters/write | Creates or updates the Hyper-V cluster |
-> | Microsoft.OffAzure/HyperVSites/clusters/read | Gets the properties of a Hyper-V cluster |
-> | Microsoft.OffAzure/HyperVSites/clusters/write | Creates or updates the Hyper-V cluster |
-> | Microsoft.OffAzure/HyperVSites/healthsummary/read | Gets the health summary for Hyper-V resource |
-> | Microsoft.OffAzure/HyperVSites/healthsummary/read | Gets the health summary for Hyper-V resource |
-> | Microsoft.OffAzure/HyperVSites/healthsummary/read | Gets the health summary for Hyper-V resource |
 > | Microsoft.OffAzure/HyperVSites/healthsummary/read | Gets the health summary for Hyper-V resource |
 > | Microsoft.OffAzure/HyperVSites/hosts/read | Gets the properties of a Hyper-V host |
 > | Microsoft.OffAzure/HyperVSites/hosts/write | Creates or updates the Hyper-V host |
-> | Microsoft.OffAzure/HyperVSites/hosts/read | Gets the properties of a Hyper-V host |
-> | Microsoft.OffAzure/HyperVSites/hosts/write | Creates or updates the Hyper-V host |
-> | Microsoft.OffAzure/HyperVSites/hosts/read | Gets the properties of a Hyper-V host |
-> | Microsoft.OffAzure/HyperVSites/hosts/write | Creates or updates the Hyper-V host |
-> | Microsoft.OffAzure/HyperVSites/hosts/read | Gets the properties of a Hyper-V host |
-> | Microsoft.OffAzure/HyperVSites/hosts/write | Creates or updates the Hyper-V host |
-> | Microsoft.OffAzure/HyperVSites/jobs/read | Gets the properties of a Hyper-V jobs |
-> | Microsoft.OffAzure/HyperVSites/jobs/read | Gets the properties of a Hyper-V jobs |
-> | Microsoft.OffAzure/HyperVSites/jobs/read | Gets the properties of a Hyper-V jobs |
 > | Microsoft.OffAzure/HyperVSites/jobs/read | Gets the properties of a Hyper-V jobs |
 > | Microsoft.OffAzure/HyperVSites/machines/read | Gets the properties of a Hyper-V machines |
-> | Microsoft.OffAzure/HyperVSites/machines/read | Gets the properties of a Hyper-V machines |
-> | Microsoft.OffAzure/HyperVSites/machines/read | Gets the properties of a Hyper-V machines |
-> | Microsoft.OffAzure/HyperVSites/machines/read | Gets the properties of a Hyper-V machines |
-> | Microsoft.OffAzure/HyperVSites/operationsstatus/read | Gets the properties of a Hyper-V operation status |
-> | Microsoft.OffAzure/HyperVSites/operationsstatus/read | Gets the properties of a Hyper-V operation status |
-> | Microsoft.OffAzure/HyperVSites/operationsstatus/read | Gets the properties of a Hyper-V operation status |
 > | Microsoft.OffAzure/HyperVSites/operationsstatus/read | Gets the properties of a Hyper-V operation status |
 > | Microsoft.OffAzure/HyperVSites/runasaccounts/read | Gets the properties of a Hyper-V run as accounts |
-> | Microsoft.OffAzure/HyperVSites/runasaccounts/read | Gets the properties of a Hyper-V run as accounts |
-> | Microsoft.OffAzure/HyperVSites/runasaccounts/read | Gets the properties of a Hyper-V run as accounts |
-> | Microsoft.OffAzure/HyperVSites/runasaccounts/read | Gets the properties of a Hyper-V run as accounts |
 > | Microsoft.OffAzure/HyperVSites/summary/read | Gets the summary of a Hyper-V site |
-> | Microsoft.OffAzure/HyperVSites/summary/read | Gets the summary of a Hyper-V site |
-> | Microsoft.OffAzure/HyperVSites/summary/read | Gets the summary of a Hyper-V site |
-> | Microsoft.OffAzure/HyperVSites/summary/read | Gets the summary of a Hyper-V site |
-> | Microsoft.OffAzure/HyperVSites/usage/read | Gets the usages of a Hyper-V site |
-> | Microsoft.OffAzure/HyperVSites/usage/read | Gets the usages of a Hyper-V site |
-> | Microsoft.OffAzure/HyperVSites/usage/read | Gets the usages of a Hyper-V site |
 > | Microsoft.OffAzure/HyperVSites/usage/read | Gets the usages of a Hyper-V site |
 > | Microsoft.OffAzure/ImportSites/read | Gets the properties of a Import site |
 > | Microsoft.OffAzure/ImportSites/write | Creates or updates the Import site |
 > | Microsoft.OffAzure/ImportSites/delete | Deletes the Import site |
 > | Microsoft.OffAzure/ImportSites/importuri/action | Gets the SAS uri for importing the machines CSV file. |
 > | Microsoft.OffAzure/ImportSites/exporturi/action | Gets the SAS uri for exporting the machines CSV file. |
-> | Microsoft.OffAzure/ImportSites/read | Gets the properties of a Import site |
-> | Microsoft.OffAzure/ImportSites/write | Creates or updates the Import site |
-> | Microsoft.OffAzure/ImportSites/delete | Deletes the Import site |
-> | Microsoft.OffAzure/ImportSites/importuri/action | Gets the SAS uri for importing the machines CSV file. |
-> | Microsoft.OffAzure/ImportSites/exporturi/action | Gets the SAS uri for exporting the machines CSV file. |
-> | Microsoft.OffAzure/ImportSites/read | Gets the properties of a Import site |
-> | Microsoft.OffAzure/ImportSites/write | Creates or updates the Import site |
-> | Microsoft.OffAzure/ImportSites/delete | Deletes the Import site |
-> | Microsoft.OffAzure/ImportSites/importuri/action | Gets the SAS uri for importing the machines CSV file. |
-> | Microsoft.OffAzure/ImportSites/exporturi/action | Gets the SAS uri for exporting the machines CSV file. |
-> | Microsoft.OffAzure/ImportSites/read | Gets the properties of a Import site |
-> | Microsoft.OffAzure/ImportSites/write | Creates or updates the Import site |
-> | Microsoft.OffAzure/ImportSites/delete | Deletes the Import site |
-> | Microsoft.OffAzure/ImportSites/importuri/action | Gets the SAS uri for importing the machines CSV file. |
-> | Microsoft.OffAzure/ImportSites/exporturi/action | Gets the SAS uri for exporting the machines CSV file. |
 > | Microsoft.OffAzure/ImportSites/jobs/read | Gets the properties of a Import jobs |
-> | Microsoft.OffAzure/ImportSites/jobs/read | Gets the properties of a Import jobs |
-> | Microsoft.OffAzure/ImportSites/jobs/read | Gets the properties of a Import jobs |
-> | Microsoft.OffAzure/ImportSites/jobs/read | Gets the properties of a Import jobs |
-> | Microsoft.OffAzure/ImportSites/machines/read | Gets the properties of a Import machines |
-> | Microsoft.OffAzure/ImportSites/machines/delete | Deletes the Import machine |
-> | Microsoft.OffAzure/ImportSites/machines/read | Gets the properties of a Import machines |
-> | Microsoft.OffAzure/ImportSites/machines/delete | Deletes the Import machine |
-> | Microsoft.OffAzure/ImportSites/machines/read | Gets the properties of a Import machines |
-> | Microsoft.OffAzure/ImportSites/machines/delete | Deletes the Import machine |
 > | Microsoft.OffAzure/ImportSites/machines/read | Gets the properties of a Import machines |
 > | Microsoft.OffAzure/ImportSites/machines/delete | Deletes the Import machine |
 > | Microsoft.OffAzure/Operations/read | Reads the exposed operations |
@@ -7037,48 +6962,12 @@ Azure service: [Azure Migrate](../migrate/migrate-services-overview.md)
 > | Microsoft.OffAzure/ServerSites/delete | Deletes the Server site |
 > | Microsoft.OffAzure/ServerSites/refresh/action | Refreshes the objects within a Server site |
 > | Microsoft.OffAzure/ServerSites/updateProperties/action | Updates the properties for machines in a site |
-> | Microsoft.OffAzure/ServerSites/read | Gets the properties of a Server site |
-> | Microsoft.OffAzure/ServerSites/write | Creates or updates the Server site |
-> | Microsoft.OffAzure/ServerSites/delete | Deletes the Server site |
-> | Microsoft.OffAzure/ServerSites/refresh/action | Refreshes the objects within a Server site |
-> | Microsoft.OffAzure/ServerSites/updateProperties/action | Updates the properties for machines in a site |
-> | Microsoft.OffAzure/ServerSites/read | Gets the properties of a Server site |
-> | Microsoft.OffAzure/ServerSites/write | Creates or updates the Server site |
-> | Microsoft.OffAzure/ServerSites/delete | Deletes the Server site |
-> | Microsoft.OffAzure/ServerSites/refresh/action | Refreshes the objects within a Server site |
-> | Microsoft.OffAzure/ServerSites/updateProperties/action | Updates the properties for machines in a site |
-> | Microsoft.OffAzure/ServerSites/read | Gets the properties of a Server site |
-> | Microsoft.OffAzure/ServerSites/write | Creates or updates the Server site |
-> | Microsoft.OffAzure/ServerSites/delete | Deletes the Server site |
-> | Microsoft.OffAzure/ServerSites/refresh/action | Refreshes the objects within a Server site |
-> | Microsoft.OffAzure/ServerSites/updateProperties/action | Updates the properties for machines in a site |
-> | Microsoft.OffAzure/ServerSites/jobs/read | Gets the properties of a Server jobs |
-> | Microsoft.OffAzure/ServerSites/jobs/read | Gets the properties of a Server jobs |
-> | Microsoft.OffAzure/ServerSites/jobs/read | Gets the properties of a Server jobs |
 > | Microsoft.OffAzure/ServerSites/jobs/read | Gets the properties of a Server jobs |
 > | Microsoft.OffAzure/ServerSites/machines/read | Gets the properties of a Server machines |
 > | Microsoft.OffAzure/ServerSites/machines/write | Write the properties of a Server machines |
-> | Microsoft.OffAzure/ServerSites/machines/read | Gets the properties of a Server machines |
-> | Microsoft.OffAzure/ServerSites/machines/write | Write the properties of a Server machines |
-> | Microsoft.OffAzure/ServerSites/machines/read | Gets the properties of a Server machines |
-> | Microsoft.OffAzure/ServerSites/machines/write | Write the properties of a Server machines |
-> | Microsoft.OffAzure/ServerSites/machines/read | Gets the properties of a Server machines |
-> | Microsoft.OffAzure/ServerSites/machines/write | Write the properties of a Server machines |
-> | Microsoft.OffAzure/ServerSites/operationsstatus/read | Gets the properties of a Server operation status |
-> | Microsoft.OffAzure/ServerSites/operationsstatus/read | Gets the properties of a Server operation status |
-> | Microsoft.OffAzure/ServerSites/operationsstatus/read | Gets the properties of a Server operation status |
 > | Microsoft.OffAzure/ServerSites/operationsstatus/read | Gets the properties of a Server operation status |
 > | Microsoft.OffAzure/ServerSites/runasaccounts/read | Gets the properties of a Server run as accounts |
-> | Microsoft.OffAzure/ServerSites/runasaccounts/read | Gets the properties of a Server run as accounts |
-> | Microsoft.OffAzure/ServerSites/runasaccounts/read | Gets the properties of a Server run as accounts |
-> | Microsoft.OffAzure/ServerSites/runasaccounts/read | Gets the properties of a Server run as accounts |
 > | Microsoft.OffAzure/ServerSites/summary/read | Gets the summary of a Server site |
-> | Microsoft.OffAzure/ServerSites/summary/read | Gets the summary of a Server site |
-> | Microsoft.OffAzure/ServerSites/summary/read | Gets the summary of a Server site |
-> | Microsoft.OffAzure/ServerSites/summary/read | Gets the summary of a Server site |
-> | Microsoft.OffAzure/ServerSites/usage/read | Gets the usages of a Server site |
-> | Microsoft.OffAzure/ServerSites/usage/read | Gets the usages of a Server site |
-> | Microsoft.OffAzure/ServerSites/usage/read | Gets the usages of a Server site |
 > | Microsoft.OffAzure/ServerSites/usage/read | Gets the usages of a Server site |
 > | Microsoft.OffAzure/VMwareSites/read | Gets the properties of a VMware site |
 > | Microsoft.OffAzure/VMwareSites/write | Creates or updates the VMware site |
@@ -7092,88 +6981,16 @@ Azure service: [Azure Migrate](../migrate/migrate-services-overview.md)
 > | Microsoft.OffAzure/VMwareSites/serverGroupMembers/action | Lists the server group members for the selected server group. |
 > | Microsoft.OffAzure/VMwareSites/getApplications/action | Gets the list application information for the selected machines |
 > | Microsoft.OffAzure/VMwareSites/exportDependencies/action | Exports the dependencies information for the selected machines |
-> | Microsoft.OffAzure/VMwareSites/read | Gets the properties of a VMware site |
-> | Microsoft.OffAzure/VMwareSites/write | Creates or updates the VMware site |
-> | Microsoft.OffAzure/VMwareSites/delete | Deletes the VMware site |
-> | Microsoft.OffAzure/VMwareSites/refresh/action | Refreshes the objects within a VMware site |
-> | Microsoft.OffAzure/VMwareSites/exportapplications/action | Exports the VMware applications and roles data into xls |
-> | Microsoft.OffAzure/VMwareSites/updateProperties/action | Updates the properties for machines in a site |
-> | Microsoft.OffAzure/VMwareSites/generateCoarseMap/action | Generates the coarse map for the list of machines |
-> | Microsoft.OffAzure/VMwareSites/generateDetailedMap/action | Generates the Detailed VMware Coarse Map |
-> | Microsoft.OffAzure/VMwareSites/clientGroupMembers/action | Lists the client group members for the selected client group. |
-> | Microsoft.OffAzure/VMwareSites/serverGroupMembers/action | Lists the server group members for the selected server group. |
-> | Microsoft.OffAzure/VMwareSites/getApplications/action | Gets the list application information for the selected machines |
-> | Microsoft.OffAzure/VMwareSites/exportDependencies/action | Exports the dependencies information for the selected machines |
-> | Microsoft.OffAzure/VMwareSites/read | Gets the properties of a VMware site |
-> | Microsoft.OffAzure/VMwareSites/write | Creates or updates the VMware site |
-> | Microsoft.OffAzure/VMwareSites/delete | Deletes the VMware site |
-> | Microsoft.OffAzure/VMwareSites/refresh/action | Refreshes the objects within a VMware site |
-> | Microsoft.OffAzure/VMwareSites/exportapplications/action | Exports the VMware applications and roles data into xls |
-> | Microsoft.OffAzure/VMwareSites/updateProperties/action | Updates the properties for machines in a site |
-> | Microsoft.OffAzure/VMwareSites/generateCoarseMap/action | Generates the coarse map for the list of machines |
-> | Microsoft.OffAzure/VMwareSites/generateDetailedMap/action | Generates the Detailed VMware Coarse Map |
-> | Microsoft.OffAzure/VMwareSites/clientGroupMembers/action | Lists the client group members for the selected client group. |
-> | Microsoft.OffAzure/VMwareSites/serverGroupMembers/action | Lists the server group members for the selected server group. |
-> | Microsoft.OffAzure/VMwareSites/getApplications/action | Gets the list application information for the selected machines |
-> | Microsoft.OffAzure/VMwareSites/exportDependencies/action | Exports the dependencies information for the selected machines |
-> | Microsoft.OffAzure/VMwareSites/read | Gets the properties of a VMware site |
-> | Microsoft.OffAzure/VMwareSites/write | Creates or updates the VMware site |
-> | Microsoft.OffAzure/VMwareSites/delete | Deletes the VMware site |
-> | Microsoft.OffAzure/VMwareSites/refresh/action | Refreshes the objects within a VMware site |
-> | Microsoft.OffAzure/VMwareSites/exportapplications/action | Exports the VMware applications and roles data into xls |
-> | Microsoft.OffAzure/VMwareSites/updateProperties/action | Updates the properties for machines in a site |
-> | Microsoft.OffAzure/VMwareSites/generateCoarseMap/action | Generates the coarse map for the list of machines |
-> | Microsoft.OffAzure/VMwareSites/generateDetailedMap/action | Generates the Detailed VMware Coarse Map |
-> | Microsoft.OffAzure/VMwareSites/clientGroupMembers/action | Lists the client group members for the selected client group. |
-> | Microsoft.OffAzure/VMwareSites/serverGroupMembers/action | Lists the server group members for the selected server group. |
-> | Microsoft.OffAzure/VMwareSites/getApplications/action | Gets the list application information for the selected machines |
-> | Microsoft.OffAzure/VMwareSites/exportDependencies/action | Exports the dependencies information for the selected machines |
 > | Microsoft.OffAzure/VMwareSites/healthsummary/read | Gets the health summary for VMware resource |
-> | Microsoft.OffAzure/VMwareSites/healthsummary/read | Gets the health summary for VMware resource |
-> | Microsoft.OffAzure/VMwareSites/healthsummary/read | Gets the health summary for VMware resource |
-> | Microsoft.OffAzure/VMwareSites/healthsummary/read | Gets the health summary for VMware resource |
-> | Microsoft.OffAzure/VMwareSites/jobs/read | Gets the properties of a VMware jobs |
-> | Microsoft.OffAzure/VMwareSites/jobs/read | Gets the properties of a VMware jobs |
-> | Microsoft.OffAzure/VMwareSites/jobs/read | Gets the properties of a VMware jobs |
 > | Microsoft.OffAzure/VMwareSites/jobs/read | Gets the properties of a VMware jobs |
 > | Microsoft.OffAzure/VMwareSites/machines/read | Gets the properties of a VMware machines |
 > | Microsoft.OffAzure/VMwareSites/machines/stop/action | Stops the VMware machines |
 > | Microsoft.OffAzure/VMwareSites/machines/start/action | Start VMware machines |
-> | Microsoft.OffAzure/VMwareSites/machines/read | Gets the properties of a VMware machines |
-> | Microsoft.OffAzure/VMwareSites/machines/stop/action | Stops the VMware machines |
-> | Microsoft.OffAzure/VMwareSites/machines/start/action | Start VMware machines |
-> | Microsoft.OffAzure/VMwareSites/machines/read | Gets the properties of a VMware machines |
-> | Microsoft.OffAzure/VMwareSites/machines/stop/action | Stops the VMware machines |
-> | Microsoft.OffAzure/VMwareSites/machines/start/action | Start VMware machines |
-> | Microsoft.OffAzure/VMwareSites/machines/read | Gets the properties of a VMware machines |
-> | Microsoft.OffAzure/VMwareSites/machines/stop/action | Stops the VMware machines |
-> | Microsoft.OffAzure/VMwareSites/machines/start/action | Start VMware machines |
-> | Microsoft.OffAzure/VMwareSites/machines/applications/read | Gets the properties of a VMware machines applications |
-> | Microsoft.OffAzure/VMwareSites/machines/applications/read | Gets the properties of a VMware machines applications |
-> | Microsoft.OffAzure/VMwareSites/machines/applications/read | Gets the properties of a VMware machines applications |
 > | Microsoft.OffAzure/VMwareSites/machines/applications/read | Gets the properties of a VMware machines applications |
 > | Microsoft.OffAzure/VMwareSites/operationsstatus/read | Gets the properties of a VMware operation status |
-> | Microsoft.OffAzure/VMwareSites/operationsstatus/read | Gets the properties of a VMware operation status |
-> | Microsoft.OffAzure/VMwareSites/operationsstatus/read | Gets the properties of a VMware operation status |
-> | Microsoft.OffAzure/VMwareSites/operationsstatus/read | Gets the properties of a VMware operation status |
-> | Microsoft.OffAzure/VMwareSites/runasaccounts/read | Gets the properties of a VMware run as accounts |
-> | Microsoft.OffAzure/VMwareSites/runasaccounts/read | Gets the properties of a VMware run as accounts |
-> | Microsoft.OffAzure/VMwareSites/runasaccounts/read | Gets the properties of a VMware run as accounts |
 > | Microsoft.OffAzure/VMwareSites/runasaccounts/read | Gets the properties of a VMware run as accounts |
 > | Microsoft.OffAzure/VMwareSites/summary/read | Gets the summary of a VMware site |
-> | Microsoft.OffAzure/VMwareSites/summary/read | Gets the summary of a VMware site |
-> | Microsoft.OffAzure/VMwareSites/summary/read | Gets the summary of a VMware site |
-> | Microsoft.OffAzure/VMwareSites/summary/read | Gets the summary of a VMware site |
 > | Microsoft.OffAzure/VMwareSites/usage/read | Gets the usages of a VMware site |
-> | Microsoft.OffAzure/VMwareSites/usage/read | Gets the usages of a VMware site |
-> | Microsoft.OffAzure/VMwareSites/usage/read | Gets the usages of a VMware site |
-> | Microsoft.OffAzure/VMwareSites/usage/read | Gets the usages of a VMware site |
-> | Microsoft.OffAzure/VMwareSites/vcenters/read | Gets the properties of a VMware vCenter |
-> | Microsoft.OffAzure/VMwareSites/vcenters/write | Creates or updates the VMware vCenter |
-> | Microsoft.OffAzure/VMwareSites/vcenters/read | Gets the properties of a VMware vCenter |
-> | Microsoft.OffAzure/VMwareSites/vcenters/write | Creates or updates the VMware vCenter |
-> | Microsoft.OffAzure/VMwareSites/vcenters/read | Gets the properties of a VMware vCenter |
-> | Microsoft.OffAzure/VMwareSites/vcenters/write | Creates or updates the VMware vCenter |
 > | Microsoft.OffAzure/VMwareSites/vcenters/read | Gets the properties of a VMware vCenter |
 > | Microsoft.OffAzure/VMwareSites/vcenters/write | Creates or updates the VMware vCenter |
 
